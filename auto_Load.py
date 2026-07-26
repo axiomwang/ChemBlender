@@ -4,7 +4,6 @@ import pkgutil
 import importlib
 from pathlib import Path
 
-
 def init():
     global modules
     global classes
